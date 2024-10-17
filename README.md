@@ -18,7 +18,7 @@ To run this project locally:
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/qrexpresal.git
+git clone https://github.com/Shaunpetro/qr-expresal.git
 cd qrexpresal
 
 2. Install dependencies:
